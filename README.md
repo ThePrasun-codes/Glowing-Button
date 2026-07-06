@@ -23,7 +23,7 @@ A clean UI with a glowing hover animation.
 ## Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Glowing-Button.git
+git clone https://github.com/ThePrasun-codes/Glowing-Button.git
 ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
